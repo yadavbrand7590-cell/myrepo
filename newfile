@@ -1,0 +1,11 @@
+<p class="h7">Heading 7</p>
+<p class="h8">Heading 8</p>
+<p class="h9">Heading 9</p>
+<p class="h10">Heading 10</p>
+
+<style>
+.h7  { font-size: 14px; font-weight: bold; }
+.h8  { font-size: 13px; font-weight: bold; }
+.h9  { font-size: 12px; font-weight: bold; }
+.h10 { font-size: 11px; font-weight: bold; }
+</style>
